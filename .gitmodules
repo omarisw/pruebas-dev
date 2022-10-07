@@ -1,0 +1,4 @@
+[submodule "tecnologiaorganizacionaldigital/addons-tod"]
+	path = tecnologiaorganizacionaldigital/addons-tod
+	url = git@github.com:tecnologiaorganizacionaldigital/addons-tod.git
+	branch = 15.0
